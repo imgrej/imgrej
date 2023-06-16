@@ -28,6 +28,7 @@ jobs:
           user: imgrej
           template: classic
           base: header, activity, community, repositories, metadata
+          config_octicon: yes
           config_timezone: Europe/Copenhagen
           config_twemoji: yes
           plugin_activity: yes
