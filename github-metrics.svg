@@ -60,17 +60,17 @@ dr-x  <b>    0</b>  packages
 </div>
 <div class="stdin"><span class="ps1-path">imgrej@metrics</span>:<span class="ps1-location">~</span># curl -vI https://grej.xyz</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://grej.xyz
-<b>X-Performance</b>: 92%
+<b>X-Performance</b>: 93%
 <b>X-Accessibility</b>: 89%
 <b>X-Best-Practices</b>: 92%
 <b>X-SEO</b>: 80%
 <b>X-PWA</b>: 0%
-<b>&gt; Time to interactive</b>: 1.13s (ok +)
-<b>&gt; Speed Index</b>: 1.911s (ok +)
+<b>&gt; Time to interactive</b>: 0.719s (ok +)
+<b>&gt; Speed Index</b>: 0.97s (ok +)
 <b>&gt; Total Blocking Time</b>: 0s (ok +)
-<b>&gt; First Contentful Paint</b>: 1.13s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 1.541s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 0.011228767922029592 (ok +)
+<b>&gt; First Contentful Paint</b>: 0.719s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 1.113s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 0.010175007852858764 (ok +)
 </div>
 
 </pre>
