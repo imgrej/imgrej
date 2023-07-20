@@ -38,7 +38,7 @@
   followed by <b>1</b> user
 </div>
 <div class="stdin"><span class="ps1-path">imgrej@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>   13</b> commits
+  <b>   14</b> commits
   <b>    0</b> pull requests reviewed
   <b>    1</b> pull request opened
   <b>    1</b> issue opened
@@ -50,7 +50,7 @@
   <b>   10</b> repositories starred
   <b>    1</b> repository watched
 </div>
-<div class="stdin"><span class="ps1-path">imgrej@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 2 repositories - 13.9 MB
+<div class="stdin"><span class="ps1-path">imgrej@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 2 repositories - 14 MB
 -r--  <b>    0</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>    0</b>  watchers
@@ -65,12 +65,12 @@ dr-x  <b>    0</b>  packages
 <b>X-Best-Practices</b>: 92%
 <b>X-SEO</b>: 80%
 <b>X-PWA</b>: 0%
-<b>&gt; Time to interactive</b>: 1.137s (ok +)
-<b>&gt; Speed Index</b>: 1.634s (ok +)
+<b>&gt; Time to interactive</b>: 1.13s (ok +)
+<b>&gt; Speed Index</b>: 1.911s (ok +)
 <b>&gt; Total Blocking Time</b>: 0s (ok +)
-<b>&gt; First Contentful Paint</b>: 1.137s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 1.569s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 0.010222811898038699 (ok +)
+<b>&gt; First Contentful Paint</b>: 1.13s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 1.541s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 0.011228767922029592 (ok +)
 </div>
 
 </pre>
