@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="626" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="519" class="">
   
 
   <defs><style>@font-face {
@@ -38,17 +38,11 @@
   followed by <b>1</b> user
 </div>
 <div class="stdin"><span class="ps1-path">imgrej@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>   14</b> commits
+  <b>   15</b> commits
   <b>    0</b> pull requests reviewed
   <b>    1</b> pull request opened
   <b>    1</b> issue opened
   <b>    0</b> issue comments
-
-<b>Tracked activity</b>
-  <b>   10</b> user followed
-  <b>    0</b> repositories sponsored
-  <b>   10</b> repositories starred
-  <b>    1</b> repository watched
 </div>
 <div class="stdin"><span class="ps1-path">imgrej@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 2 repositories - 14 MB
 -r--  <b>    0</b>  stargazers
@@ -60,16 +54,15 @@ dr-x  <b>    0</b>  packages
 </div>
 <div class="stdin"><span class="ps1-path">imgrej@metrics</span>:<span class="ps1-location">~</span># curl -vI https://grej.xyz</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://grej.xyz
-<b>X-Performance</b>: 93%
+<b>X-Performance</b>: 98%
 <b>X-Accessibility</b>: 89%
 <b>X-Best-Practices</b>: 92%
 <b>X-SEO</b>: 80%
-<b>X-PWA</b>: 0%
-<b>&gt; Time to interactive</b>: 0.719s (ok +)
-<b>&gt; Speed Index</b>: 0.97s (ok +)
+<b>&gt; Time to interactive</b>: 0.865s (ok +)
+<b>&gt; Speed Index</b>: 1.884s (ok +)
 <b>&gt; Total Blocking Time</b>: 0s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.719s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 1.113s (ok +)
+<b>&gt; First Contentful Paint</b>: 0.865s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 1.059s (ok +)
 <b>&gt; Cumulative Layout Shift</b>: 0.010175007852858764 (ok +)
 </div>
 
