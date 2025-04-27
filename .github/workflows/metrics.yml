@@ -27,9 +27,15 @@ jobs:
           # Options
           user: imgrej
           template: classic
-          base: header
+          base: header, activity, community
+          config_display: columns
           config_timezone: Europe/Copenhagen
           config_twemoji: yes
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_mode: recent
+          plugin_music_played_at: yes
+          plugin_music_provider: spotify
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_user: 1110226058
