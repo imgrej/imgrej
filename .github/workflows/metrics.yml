@@ -28,7 +28,7 @@ jobs:
           user: imgrej
           template: classic
           base: header, activity, community
-          config_display: columns
+          config_display: large
           config_timezone: Europe/Copenhagen
           config_twemoji: yes
           plugin_music: yes
