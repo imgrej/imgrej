@@ -8,5 +8,5 @@
 </div>
 
 <div id="body" align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imgrej&theme=shadow-purple&hide_border=true&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imgrej&theme=shadow-purple&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
