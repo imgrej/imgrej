@@ -9,6 +9,8 @@
   </picture>
 </div>
 
+<a href="https://wakatime.com/@607365a6-04db-4e6c-9512-cc26fc2a3435"><img src="https://wakatime.com/badge/user/607365a6-04db-4e6c-9512-cc26fc2a3435.svg" alt="Total time coded since May 31 2025" /></a>
+
 <br>
 
 <div align="center">
