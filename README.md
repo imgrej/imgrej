@@ -9,7 +9,7 @@
   </picture>
 </div>
 
-
+<br>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imgrej&theme=transparent" />
@@ -25,5 +25,3 @@
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1110226058&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1110226058&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile"/>
 </a>
-
-<br>
