@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" />
-  <img src="./profile/top-langs.svg" />
+  <img align="top" src="./profile/stats.svg" />
+  <img align="top" src="./profile/top-langs.svg" />
 <p>
